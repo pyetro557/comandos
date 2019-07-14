@@ -53,3 +53,22 @@
 **como usar** *p!unmute <@id ou mencione>*
 
 ***━━━━━━━PROXIMO━━━━━━━***
+
+``botinfo``
+
+**como funciona** *ele da as informaçoes do bot*
+**como  usar** *p!botinfo*
+
+***━━━━━━━PROXIMO━━━━━━━***
+
+``serverinfo``
+
+**como fucniona** *ele da as informaçoes do server*
+**como usar** *p!serverinfo*
+
+***━━━━━━━PROXIMO━━━━━━━***
+
+``userinfo``
+
+**como funciona** *ele diz as informacoes do usuario*
+**como usar** *p!userinfo <@mencione >*
